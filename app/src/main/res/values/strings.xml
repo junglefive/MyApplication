@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ACTION_FROM_SERVER">com.example.jungle.ACTION_FROM_SERVER</string>
+    <string name="ACTION_FROM_MAIN_ACTIVITY">com.example.jungle.ACTION_FROM_MAINACTIVITY</string>
+    <string name="MY_UUID">00001101-0000-1000-8000-00805f9b34fb</string>
+    <string name="MAIN_NOTE">
+        ):注意事项:\n
+        1.请先选择蓝牙.\n
+        2.请确认蓝牙已配对.\n
+        3.全局控制需root权限.\n
+        4.浏览图片可手势或触摸控制.\n
+        5.请保证下位机数据格式为：\n
+        obj.println(10000+X1);\n
+        obj.println(20000+X2);\n
+    </string>
+    <string-array name="gesture_radius">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+    </string-array>
+</resources>
